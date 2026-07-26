@@ -1,2 +1,2 @@
 guild_id="1530991283538231591"
-discord="MTUzMDk5MTgzMTMwMTYxOTc1Mg.GPxdiu.spn6iShHhTCShvDgghQff0HIc2flkJ3PWFZf-w"
+discord_reverse="4AD1IchvL1h5qr9IzwxlIzk0D8eq0rNL04GAh9.OsxM6G.gM1cTOxYTMwMTMzgTM5kDMzUTM"
